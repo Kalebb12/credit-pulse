@@ -1,0 +1,17 @@
+CreditPulse Model Report
+========================
+Algorithm   : XGBRegressor
+Features    : 7
+Train rows  : 1600
+Test rows   : 400
+
+Metrics (test set)
+------------------
+MAE         : 0.0048
+RMSE        : 0.0060
+R²          : 1.0000
+
+Persona Sanity Check
+--------------------
+Amaka score : 77.9
+Emeka score : 25.7

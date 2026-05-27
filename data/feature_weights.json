@@ -1,0 +1,9 @@
+{
+  "tx_regularity_score": 0.25,
+  "bill_payment_rate": 0.25,
+  "income_stability": 0.2,
+  "has_savings_behaviour": 0.1,
+  "merchant_diversity": 0.08,
+  "avg_monthly_inflow": 0.08,
+  "account_age_months": 0.04
+}

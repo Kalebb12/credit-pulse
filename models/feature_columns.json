@@ -1,0 +1,9 @@
+[
+  "tx_regularity_score",
+  "bill_payment_rate",
+  "income_stability",
+  "has_savings_behaviour",
+  "merchant_diversity",
+  "avg_monthly_inflow",
+  "account_age_months"
+]
