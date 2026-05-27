@@ -3,7 +3,7 @@ uvicorn
 joblib
 scikit-learn
 xgboost
-google-generativeai
+google-genai
 python-dotenv
 pandas
 numpy
